@@ -1,2 +1,2 @@
 another dummy file
-a secon line
+a second line
